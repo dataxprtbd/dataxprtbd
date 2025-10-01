@@ -40,15 +40,6 @@ I am an experienced Data & Reporting Specialist with 18+ years of professional e
 <a href="https://www.kaggle.com/dataxprtbd" target="blank">
   <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
 </a>
-<a href="https://facebook.com/yourprofile" target="blank">
-  <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
-</a>
-<a href="https://instagram.com/yourprofile" target="blank">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
-</a>
-<a href="https://youtube.com/yourchannel" target="blank">
-  <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
-</a>
 </p>
 
 
