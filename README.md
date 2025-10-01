@@ -25,8 +25,32 @@ I am an experienced Data & Reporting Specialist with 18+ years of professional e
 ---
 
 
-## 🌐 Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dataxprtbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dataxprtbd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dataxprtbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/dataxprtbd)  
+## 🌐 Connect with Me  
+
+<p align="left">
+<a href="https://github.com/dataxprtbd" target="blank">
+  <img src="https://img.icons8.com/color/48/000000/github.png"/>
+</a>
+<a href="https://www.linkedin.com/in/dataxprtbd/" target="blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="https://twitter.com/dataxprtbd" target="blank">
+  <img src="https://img.icons8.com/color/48/000000/twitter.png"/>
+</a>
+<a href="https://www.kaggle.com/dataxprtbd" target="blank">
+  <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
+</a>
+<a href="https://facebook.com/yourprofile" target="blank">
+  <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
+</a>
+<a href="https://instagram.com/yourprofile" target="blank">
+  <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
+</a>
+<a href="https://youtube.com/yourchannel" target="blank">
+  <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
+</a>
+</p>
+
 
 
 ---
