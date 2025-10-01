@@ -1,6 +1,5 @@
 # Hi, I'm Nasrullah Siddiquee 👋  
 
----
 
 ![Banner](./banner.png)
 
