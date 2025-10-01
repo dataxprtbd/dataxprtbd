@@ -9,7 +9,8 @@ to learn new analytical tools.
 
 ---
 
-![Banner](banner.png)
+![Banner](https://raw.githubusercontent.com/dataxprtbd/Excel-Sales-Dashboard/main/banner.png)
+
 
 
 ---
