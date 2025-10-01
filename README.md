@@ -9,7 +9,7 @@ to learn new analytical tools.
 
 ---
 
-![Banner](./images/banner.png)
+![Banner](./banner.png)
 
 
 
