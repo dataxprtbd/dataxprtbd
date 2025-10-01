@@ -1,9 +1,5 @@
 # Hi, I'm Nasrullah Siddiquee 👋  
 
-## 🚀 Aspiring Data Analyst | Excel • Power BI • SQL • Python  
-
-I am an experienced Data & Reporting Specialist with 18+ years of professional expertise.Skilled in Excel, Power BI, SQL, and Python, I build interactive dashboards and reports to deliver business insights. Passionate about data visualization and always eager to learn new analytical tools.  
-
 ---
 
 ![Banner](./banner.png)
@@ -11,6 +7,12 @@ I am an experienced Data & Reporting Specialist with 18+ years of professional e
 
 
 ---
+
+## 🚀 Aspiring Data Analyst | Excel • Power BI • SQL • Python  
+
+I am an experienced Data & Reporting Specialist with 18+ years of professional expertise.Skilled in Excel, Power BI, SQL, and Python, I build interactive dashboards and reports to deliver business insights. Passionate about data visualization and always eager to learn new analytical tools.  
+
+
 
 ## 🔧 Skills & Tools
 ✅ Microsoft Excel (Pivot Tables, Charts, Dashboards)  
