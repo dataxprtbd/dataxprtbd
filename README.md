@@ -5,6 +5,8 @@
 💡 I love transforming raw data into meaningful insights and creating interactive dashboards.  
 📊 Passionate about Business Intelligence, Reporting & Data Visualization.  
 
+(https://pbs.twimg.com/profile_banners/575368997/1759344556/600x200)
+
 ---
 
 ## 🔧 Skills & Tools
